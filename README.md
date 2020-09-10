@@ -27,3 +27,32 @@ I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in B
 ![Vidhi's github stats](https://github-readme-stats.vercel.app/api?username=vidhigandhi94&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vidhigandhi94.vidhigandhi94)
+
+<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+
+<details>
+  <summary>✨ Github Stats</summary>
+  <br>
+  <img align="left" alt="Vidhi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vidhigandhi94&show_icons=true&theme=dracula" />
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</details>
+<details>
+  <summary>🔥 Top languages</summary>
+  <br>
+  <img align="left" alt="Vidhi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhigandhi94&theme=dracula" /> <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</details>
