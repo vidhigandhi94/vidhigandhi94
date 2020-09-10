@@ -25,7 +25,7 @@ I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in B
 
 
 ## 💻 Projects
-* [Analysis of Suicides in India)](https://github.com/vidhigandhi94/Analysis-of-suicide-in-india--who-why-and-how-)
+* [Analysis of Suicides in India](https://github.com/vidhigandhi94/Analysis-of-suicide-in-india--who-why-and-how-)
 * [Zomato Restaurant Rate Prediction](https://github.com/vidhigandhi94/Zomata-Data-Analysis-Python)
 * [Analysis of Airbnb NewYork Data](https://github.com/vidhigandhi94/Exploratory-analysis-of-Airbnb-data-in-R)
 * [Twitter Sentiment Analysis](https://github.com/vidhigandhi94/Twitter-sentiment-analysis-using-R-Shiny-App)
@@ -34,6 +34,7 @@ I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in B
 * [Does pregnancies lead to diabetes?](https://github.com/vidhigandhi94/PIMA-Diabetes-explaining-causal-effects)
 * [Improving Bank Marketing Campaign](https://github.com/vidhigandhi94/Bank-Marketing-Campaign-using-R-)
 * [Heart Disease Prediction](https://github.com/vidhigandhi94/Heart-Disease-Prediction-Using-Python)
+* [Grocery Management in SQL and Tableau](https://github.com/vidhigandhi94/Grocery-Management-SQL)
 
 <img src="https://komarev.com/ghpvc/?username=vidhigandhi94" alt="vidhigandhi94" />
 
