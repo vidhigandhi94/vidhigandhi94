@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/vidhigandhi94/vidhigandhi94/blob/master/header.png "Header")]
+![Header](https://github.com/vidhigandhi94/vidhigandhi94/blob/master/header.png "Header")
 
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
