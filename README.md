@@ -20,9 +20,8 @@ I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in B
 
 ## 🛠 Tech Stack
 * 💻   Python | R (Statistics) | SQL | Tableau 
-* 🔧   Git | Markdown | Selenium | Tidyverse
-* 🖥   Illustrator| Photoshop | InDesign
-<!-- Actual text -->
+* 🔧   Machine Learning | Marketing Analytics | Statistical Analysis | Customer Behavior Analysis | Causal Inferences
+* 🚀   Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn | NLTK | dplyr | ggplot2
 
 
 <img src="https://komarev.com/ghpvc/?username=vidhigandhi94" alt="vidhigandhi94" />
