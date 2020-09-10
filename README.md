@@ -24,11 +24,8 @@ I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in B
 * 🖥   Illustrator| Photoshop | InDesign
 <!-- Actual text -->
 
-![Vidhi's github stats](https://github-readme-stats.vercel.app/api?username=vidhigandhi94&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vidhigandhi94.vidhigandhi94)
-
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+<img src="https://komarev.com/ghpvc/?username=vidhigandhi94" alt="vidhigandhi94" />
 
 <details>
   <summary>✨ Github Stats</summary>
