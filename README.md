@@ -21,8 +21,19 @@ I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in B
 ## 🛠 Tech Stack
 * 💻   Python | R (Statistics) | SQL | Tableau 
 * 🔧   Machine Learning | Marketing Analytics | Statistical Analysis | Customer Behavior Analysis | Causal Inferences
-* 🚀   Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn | NLTK | dplyr | ggplot2
+* 🚀   Pandas | NumPy | keras | pytorch | Scikit-Learn | Matplotlib | Seaborn | NLTK | dplyr | ggplot2
 
+
+## 💻 Projects
+* [Analysis of Suicides in India)](https://github.com/vidhigandhi94/Analysis-of-suicide-in-india--who-why-and-how-)
+* [Zomato Restaurant Rate Prediction](https://github.com/vidhigandhi94/Zomata-Data-Analysis-Python)
+* [Analysis of Airbnb NewYork Data](https://github.com/vidhigandhi94/Exploratory-analysis-of-Airbnb-data-in-R)
+* [Twitter Sentiment Analysis](https://github.com/vidhigandhi94/Twitter-sentiment-analysis-using-R-Shiny-App)
+* [Spotify data Analysis](https://github.com/vidhigandhi94/Spotify-data-analysis)
+* [Whatsapp Group Chat Analysis](https://github.com/vidhigandhi94/Whatsapp-group-chat-analysis)
+* [Does pregnancies lead to diabetes?](https://github.com/vidhigandhi94/PIMA-Diabetes-explaining-causal-effects)
+* [Improving Bank Marketing Campaign](https://github.com/vidhigandhi94/Bank-Marketing-Campaign-using-R-)
+* [Heart Disease Prediction](https://github.com/vidhigandhi94/Heart-Disease-Prediction-Using-Python)
 
 <img src="https://komarev.com/ghpvc/?username=vidhigandhi94" alt="vidhigandhi94" />
 
