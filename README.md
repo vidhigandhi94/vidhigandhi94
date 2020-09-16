@@ -25,6 +25,7 @@ I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in B
 
 
 ## 💻 Projects
+* [US Unemployment Rate Time Series] (https://github.com/vidhigandhi94/US-Unemployment-Rate-Time-Series)
 * [Analysis of Suicides in India](https://github.com/vidhigandhi94/Analysis-of-suicide-in-india--who-why-and-how-)
 * [Zomato Restaurant Rate Prediction](https://github.com/vidhigandhi94/Zomata-Data-Analysis-Python)
 * [Analysis of Airbnb NewYork Data](https://github.com/vidhigandhi94/Exploratory-analysis-of-Airbnb-data-in-R)
