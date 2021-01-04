@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vidhigandhi12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidhigandhi12/)](https://www.linkedin.com/in/vidhigandhi12/) 
 [![Gmail Badge](https://img.shields.io/badge/-vgandhi@scu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vgandhi@scu.edu)](mailto:vgandhi@scu.edu)
 
-I'm Vidhi Gandhi, Student at 👨‍💻 Santa Clara University Pursuing MS in Business Analytics. I am a tech and management enthusiast. My passion for solving real-time business problems & result oriented attitude are the main reasons behind pursuing a career in Data Analytics
+I'm Vidhi Gandhi, 👨‍💻  an MS in Business Analytics Graduate. I am a tech and management enthusiast. My passion for solving real-time business problems & result oriented attitude are the main reasons behind pursuing a career in Data Analytics
 
 ## 👨🏻‍💻 About Me
 
