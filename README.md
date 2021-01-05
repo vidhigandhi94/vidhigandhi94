@@ -25,6 +25,7 @@ I'm Vidhi Gandhi, 👨‍💻  an MS in Business Analytics Graduate. I am a tech
 
 
 ## 💻 Projects
+* [Stock Volatility Prediction Using SEC Filings] (https://github.com/vidhigandhi94/Stock-Volatility-Prediction-Using-Sec-8K-filings)
 * [US Unemployment Rate Time Series](https://github.com/vidhigandhi94/US-Unemployment-Rate-Time-Series)
 * [Analysis of Suicides in India](https://github.com/vidhigandhi94/Analysis-of-suicide-in-india--who-why-and-how-)
 * [Zomato Restaurant Rate Prediction](https://github.com/vidhigandhi94/Zomata-Data-Analysis-Python)
