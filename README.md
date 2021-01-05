@@ -11,8 +11,8 @@ I'm Vidhi Gandhi, 👨‍💻  an MS in Business Analytics Graduate. I am a tech
 ## 👨🏻‍💻 About Me
 
 * 🤓 ⠀Data analyst with the perfect mix of technical and business (consulting) background
-* 📖 ⠀Pursuing MS in Business Analytics from Santa Clara University; Completed my Undergraduate with Btech in Computer Science from NMIMS University, India.
-* 📈  Currently a Data Science Practicum Student at Box Inc, where I am involved in churn rate prediction modeling and increasing user retention by improving the user onboarding process.
+* 📖 ⠀MS in Business Analytics Graduate from Santa Clara University; Completed my Undergraduate with Btech in Computer Science from NMIMS University, India.
+* 📈  Past Data Science Practicum Student at Box Inc, where I was involved in churn rate prediction modeling and increasing user retention by improving the user onboarding process. Improved user rertention by 15%.
 * 💼 ⠀Started my career as an IT Risk Analyst with the Financial Services Advisory team at Ernst & young
 * 👯 ⠀I love to dance and have a Masters degree in Dance and Teacher Training Course in Bharat Natyam from ART SOCIETY MUMBAI
 * 🤖 ⠀I also love to travel, hike, click pictures, play squash, and cricket.
@@ -20,7 +20,7 @@ I'm Vidhi Gandhi, 👨‍💻  an MS in Business Analytics Graduate. I am a tech
 
 ## 🛠 Tech Stack
 * 💻   Python | R (Statistics) | SQL | Tableau 
-* 🔧   Machine Learning | Marketing Analytics | Statistical Analysis | Customer Behavior Analysis | Causal Inferences
+* 🔧   Machine Learning | Marketing Analytics | Statistical Analysis | Customer Behavior Analysis | Causal Inferences | NLP | Deep Learning
 * 🚀   Pandas | NumPy | keras | pytorch | Scikit-Learn | Matplotlib | Seaborn | NLTK | dplyr | ggplot2
 
 
