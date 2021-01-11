@@ -3,7 +3,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@vidhigandhi4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vidhigandhi4)](https://twitter.com/vidhigandhi4) 
-[![Linkedin Badge](https://img.shields.io/badge/-vidhigandhi12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidhigandhi12/)](https://www.linkedin.com/in/vidhigandhi12/) 
+[![Linkedin Badge](https://img.shields.io/badge/-vidhigandhi1712-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidhigandhi1712/)](https://www.linkedin.com/in/vidhigandhi1712/) 
 [![Gmail Badge](https://img.shields.io/badge/-vgandhi@scu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vgandhi@scu.edu)](mailto:vgandhi@scu.edu)
 
 I'm Vidhi Gandhi, 👨‍💻  an MS in Business Analytics Graduate. I am a tech and management enthusiast. My passion for solving real-time business problems & result oriented attitude are the main reasons behind pursuing a career in Data Analytics
