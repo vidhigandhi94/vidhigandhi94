@@ -25,6 +25,7 @@ I'm Vidhi Gandhi, 👨‍💻  an MS in Business Analytics Graduate. I am a tech
 
 
 ## 💻 Projects
+* [Tableau Resume](https://public.tableau.com/profile/vidhi2433#!/vizhome/Resume1copy/Dashboard1)
 * [LinkedIn Job Scraping](https://github.com/vidhigandhi94/LinkedIn-Job-Scraping-Python)
 * [Stock Volatility Prediction Using SEC Filings](https://github.com/vidhigandhi94/Stock-Volatility-Prediction-Using-Sec-8K-filings)
 * [US Unemployment Rate Time Series](https://github.com/vidhigandhi94/US-Unemployment-Rate-Time-Series)
