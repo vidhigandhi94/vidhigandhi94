@@ -22,6 +22,7 @@ I'm Vidhi Gandhi, 👨‍💻  an MS in Business Analytics Graduate. I am a tech
 * 💻   Python | R (Statistics) | SQL | Tableau 
 * 🔧   Machine Learning | Marketing Analytics | Statistical Analysis | Customer Behavior Analysis | Causal Inferences | NLP | Deep Learning
 * 🚀   Pandas | NumPy | keras | pytorch | Scikit-Learn | Matplotlib | Seaborn | NLTK | dplyr | ggplot2
+* 📖   [Certificates](https://github.com/vidhigandhi94/Certificates)
 
 
 ## 💻 Projects
